@@ -13,7 +13,7 @@ assignees: ''
 
 - Errors (if any) : \<did bot threw an error if yes what?>
 
-- [] Bot crashed?
+-[ ] Bot crashed?
 
 
 Command usage:
