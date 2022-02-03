@@ -17,7 +17,7 @@ Well just re run the command in the same manner.
 
 At moment I hadn't made any command to remove the current channel I may in future probably but it will take long since I've atleast 200+ commands to change things in. 
 
-# why can't I sent the channel? 
+# why can't I set the channel? 
 
 Channels can only be set by a user in server who has manage channel (my bot doesn't actually see whether you're a owner or have administrator permission it looks only for manage channel perms I'm working on changing it). 
 
@@ -38,5 +38,5 @@ Permissions you need to use this command: manage channel
 
 Permissions bot needs to use this command: view channel, read message history, send messages
 
-Additions: N/AW
+Additions: N/A
 
