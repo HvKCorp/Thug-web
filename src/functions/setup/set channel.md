@@ -40,3 +40,7 @@ Permissions bot needs to use this command: view channel, read message history, s
 
 Additions: N/A
 
+- [ ] Functions: \<Function Name>
+- [ ] Callbacks: \<Callback Name>
+- [ ] Handlers: \<Handler Type>
+- [ ] Others: \______
