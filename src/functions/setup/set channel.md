@@ -39,8 +39,3 @@ Permissions you need to use this command: manage channel
 Permissions bot needs to use this command: view channel, read message history, send messages
 
 Additions: N/A
-
-- [ ] Functions: \<Function Name>
-- [ ] Callbacks: \<Callback Name>
-- [ ] Handlers: \<Handler Type>
-- [ ] Others: \______
