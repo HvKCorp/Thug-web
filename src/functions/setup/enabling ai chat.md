@@ -13,3 +13,19 @@ And as I said it responds to all messages you should not set ai channel same as 
 ## Step 2:
 ### Set the bot AI channel
 All you need to do is run: cool ai <ai channel: channel mention> or cool ai (if running the command in same channel as the one you want to set. 
+
+# OverView
+## Command name : 
+```
+cool ai
+```
+## Fields: 
+Ai channel: Channel mention
+## Required Fields
+N/A
+## Permissions you need to run this command:
+manage channels
+## Permissions Bot needs:
+View channels, Send messages, read message history.
+## Additional:
+This command should be used in a separate channel since it works without prefix and replies to all the messages sent it that channel. 
