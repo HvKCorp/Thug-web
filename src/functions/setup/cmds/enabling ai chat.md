@@ -1,7 +1,7 @@
 # What is AI? 
 AI: Artificial intelligence 
 My bot can use it's AI to chat with ppl but not do anything a robot can do (common sense tbh).
-This probably one the most used thing but looks like ppl think setting it is kinda complicated.
+This probably is one of the most used thing but looks like ppl think setting it is kinda complicated.
 But it is as simple as setting up bot channel Here's what to do:
 
 # What to do?
